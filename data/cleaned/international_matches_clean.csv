@@ -34404,7 +34404,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-06,England,New Zealand,1.0,0.0,Friendly,Tampa,United States,True
 2026-06-06,Sierra Leone,Liberia,1.0,0.0,Friendly,Bo,Sierra Leone,False
 2026-06-06,Ethiopia,Malawi,1.0,0.0,Friendly,Dire Dawa,Ethiopia,False
-2026-06-06,Gibraltar,Cayman Islands,4.0,1.0,Friendly,Gibraltar,Gibraltar,False
 2026-06-06,Jamaica,South Africa,0.0,1.0,Friendly,Pachuca,Mexico,True
 2026-06-06,Kyrgyzstan,Palestine,0.0,0.0,Friendly,Bishkek,Kyrgyzstan,False
 2026-06-06,Panama,Bosnia and Herzegovina,1.0,1.0,Friendly,St. Louis,United States,True
@@ -34543,3 +34542,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-07-07,Switzerland,Colombia,0.0,0.0,FIFA World Cup,Vancouver,Canada,True
 2026-07-09,France,Morocco,2.0,0.0,FIFA World Cup,Foxborough,United States,True
 2026-07-10,Spain,Belgium,2.0,1.0,FIFA World Cup,Inglewood,United States,True
+2026-07-11,Norway,England,1.0,2.0,FIFA World Cup,Miami Gardens,United States,True
+2026-07-11,Argentina,Switzerland,3.0,1.0,FIFA World Cup,Kansas City,United States,True
+2026-07-14,France,Spain,0.0,2.0,FIFA World Cup,Arlington,United States,True
+2026-07-15,England,Argentina,1.0,2.0,FIFA World Cup,Atlanta,United States,True
+2026-07-18,France,England,4.0,6.0,FIFA World Cup,Miami Gardens,United States,True
+2026-07-19,Spain,Argentina,1.0,0.0,FIFA World Cup,East Rutherford,United States,True
